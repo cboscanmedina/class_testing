@@ -1,11 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
+print("Hello, World!!")
 
-@author: cclapp
-"""
+x = 10
 
-print("Hello, World!!!")
-
-print("No more math.")
-
+print(x*2)
